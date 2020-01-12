@@ -1,0 +1,16 @@
+#logreg-forms form {
+    width: 100%;
+    max-width: 500px;
+    padding: 15px;
+    margin: auto;
+}
+
+#logreg-forms .form-signin input {
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width:500px){
+    #logreg-forms{
+        width:300px;
+    }
+}
